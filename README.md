@@ -5,7 +5,7 @@
 
 <!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=800&color=BB86FC&center=true&vCenter=true&width=600&lines=Building%20with%20logic%20and%20creativity;DSA%20%7C%20Full%20Stack%20%7C%20Cloud;Code.%20Debug.%20Repeat.;Always%20evolving..." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Building%20with%20logic%20and%20creativity;DSA%20%7C%20Full%20Stack%20%7C%20Cloud;Code.%20Debug.%20Repeat.;Always%20evolving..." />
 </p>
 
 ---
@@ -36,17 +36,17 @@ while(alive){
 ---
 </td> <td width="50%" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/> </td> </tr> </table>
 ⚙️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,mongodb,mysql,spring,aws,git,firebase&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,mongodb,mysql,spring,aws,git,firebase,html,css,aws,docker,bootstrap,c,&theme=dark" /> </p>
 
 🧠 Coding Profiles
-<p align="center"> <a href="https://leetcode.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/> </a> <a href="https://www.codechef.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/> </a> <a href="https://codeforces.com/profile/YOUR_USERNAME"> <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/> </a> </p>
+<p align="center"> <a href="https://leetcode.com/Aanchal0502"> <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/> </a> <a href="https://www.codechef.com/YOUR_USERNAME> <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/> </a> <a href="https://codeforces.com/profile/Aanchal0502"> <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/> </a> </p>
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AanchalGupta0502&theme=tokyonight&hide_border=true"/> </p>
 
 🐍 Contribution Snake
 
-<p align="center"> <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />  </p>
+<p align="center"> <p align="center"> <img src="https://raw.githubusercontent.com/AanchalGupta0502/AanchalGupta0502/output/github-contribution-grid-snake-dark.svg" />  </p>
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/aanchal-gupta-935913257"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:aanchalgupta0205@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> <a href="https://github.com/AanchalGupta0502"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> </p>
 
