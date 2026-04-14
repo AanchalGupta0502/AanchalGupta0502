@@ -18,11 +18,11 @@
 
 ### 🌌 Developer Mindset
 
-- 🎯 Into **DSA + Full Stack + ML**
-- 🌳 Built **AlgoForest** (Tree Visualizer)
-- 🌐 Created **SocialeX Web App**
-- ⚡ Love **solving + building + optimizing**
-- 🧠 Improving **speed + intuition in problem solving**
+- 🎯 Into DSA + Full Stack + Cloud
+- 🌳 Built AlgoForest ( DSA Tree Visualizer)
+- 🌐 Created SocialeX Web App
+- ⚡ Love solving + building + optimizing
+- 🧠 Improving speed + intuition in problem solving
 
 <br>
 
@@ -42,12 +42,13 @@ while(alive){
 <p align="center"> <a href="https://leetcode.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/> </a> <a href="https://www.codechef.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/> </a> <a href="https://codeforces.com/profile/YOUR_USERNAME"> <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/> </a> </p>
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AanchalGupta0502&theme=tokyonight&hide_border=true"/> </p>
 
 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/AanchalGupta0502/AanchalGupta0502/output/github-contribution-grid-snake-dark.svg" /> </p>
+
+<p align="center"> <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />  </p>
 🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/YOUR_LINK"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/aanchal-gupta-935913257"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:aanchalgupta0205@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> <a href="https://github.com/AanchalGupta0502"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> </p>
 
 🌙 Final Thought
 <p align="center"> <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/anime-night.gif" width="320"/> </p> <p align="center"> <b>"still learning. still building. still becoming."</b> </p>
