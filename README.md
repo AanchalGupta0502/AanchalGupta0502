@@ -39,10 +39,15 @@ while(alive){
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,js,python,react,nodejs,mongodb,mysql,spring,aws,git,firebase,html,css,aws,docker,bootstrap,c,&theme=dark" /> </p>
 
 🧠 Coding Profiles
-<p align="center"> <a href="https://leetcode.com/Aanchal0502"> <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/> </a> <a href="https://www.codechef.com/YOUR_USERNAME> <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/> </a> <a href="https://codeforces.com/profile/Aanchal0502"> <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/> </a> </p>
+<p align="center"> <a href="https://leetcode.com/Aanchal0502"> <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/> </a> <a href="https://www.codechef.com/YOUR_USERNAME> <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/> </a> <a href="https://codeforces.com/profile/Aanchal0502"> <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/> </a><a href="https://www.geeksforgeeks.org/user/aanchalgp/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a> 
+<a href="https://www.codechef.com/users/aanchal_0502" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a></p>
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AanchalGupta0502&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AanchalGupta0502&theme=tokyonight&hide_border=true"/> </p>
 
 🐍 Contribution Snake
 
